@@ -1,7 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J2in&show_icons=true&theme=github_dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J2in&layout=compact&theme=github_dark)
-
-
+# MY NAME IS JIIN
 
 ## ❗ INTERESTED IN ❗
 #### Frontend / Machine Learning / IoT service
@@ -41,6 +38,11 @@
 <img src="https://img.shields.io/badge/Lumia-5E5E5E?style=flat-square&logo=Microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xiaomi-FF6900?style=flat-square&logo=Xiaomi&logoColor=white"/>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=J2in&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J2in&layout=compact&theme=github_dark)
+
+
 
 <!--
 **J2in/J2in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
