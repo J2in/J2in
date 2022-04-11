@@ -7,7 +7,7 @@
 #### I'm in
 <div>
 <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=white"/>
-<img src="https://img.shields.io/badge/AppleDeveloperAcademy-000000?style=flat-square&logo=Apple&logoColor=white"/>
+<img src="https://img.shields.io/badge/Apple Developer Academy @ POSTECH-000000?style=flat-square&logo=Apple&logoColor=white"/>
 </div>
 
 #### I've have used at least once - programming
