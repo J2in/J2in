@@ -4,6 +4,12 @@
 #### and dancing 🤸‍♀️
 
 ## ❗ STACK ❗
+#### I'm in
+<div>
+<img src="https://img.shields.io/badge/42-000000?style=flat-square&logo=42&logoColor=black"/>
+<img src="https://img.shields.io/badge/Apple-000000?style=flat-square&logo=Apple&logoColor=black"/>
+</div>
+
 #### I've have used at least once - programming
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
