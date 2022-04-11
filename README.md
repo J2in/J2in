@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&text=%20%20My%20Name%20is%20Jiin%20Kang&fontColor=579efa&desc=but%20you%20can%20call%20me%20Jeni&fontAlign=55&descAlignY=75&descAlign=77)
+![header](https://capsule-render.vercel.app/api?type=transparent&text=%20%20My%20Name%20is%20Jiin%20Kang&fontColor=579efa&desc=but%20you%20can%20call%20me%20Jeni&fontAlign=50&descAlignY=75&descAlign=72)
 
 <div align="center">
   <div><strong>💙 HI THERE 💙</strong></div>
