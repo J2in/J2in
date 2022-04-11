@@ -2,7 +2,8 @@
 ## ❗ MY NAME IS JIIN ❗
 #### And I'm interested in Frontend / Machine Learning / IoT service
 #### and dancing 🤸‍♀️
-#### I'm in
+
+#### NOW I'M IN
 <div>
 <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apple Developer Academy @ POSTECH-000000?style=flat-square&logo=Apple&logoColor=white"/>
