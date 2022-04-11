@@ -2,14 +2,13 @@
 ## ❗ MY NAME IS JIIN ❗
 #### And I'm interested in Frontend / Machine Learning / IoT service
 #### and dancing 🤸‍♀️
-
-## ❗ STACK ❗
 #### I'm in
 <div>
 <img src="https://img.shields.io/badge/42seoul-000000?style=flat-square&logo=42&logoColor=white"/>
 <img src="https://img.shields.io/badge/Apple Developer Academy @ POSTECH-000000?style=flat-square&logo=Apple&logoColor=white"/>
 </div>
 
+## ❗ STACK ❗
 #### I've have used at least once - programming
 <div>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
